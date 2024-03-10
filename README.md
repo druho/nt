@@ -16,7 +16,6 @@ pnpm i @mdi/font
 # Type-checking
 pnpm add -D vue-tsc@^1 typescript
 
-
 # tesing
 pnpm add -D @nuxt/test-utils vitest @vue/test-utils happy-dom playwright-core
 

@@ -1,13 +1,13 @@
 <script setup
-        lang="ts">
+        lang="ts"
+>
 
 </script>
 
 <template>
-    <div>
-        home page
-    </div>
+  <div>
+    home page
+  </div>
 </template>
-
 
 <style scoped></style>

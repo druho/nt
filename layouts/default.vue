@@ -1,16 +1,18 @@
 <script setup
-        lang="ts">
+        lang="ts"
+>
 
 </script>
 
 <template>
-    <div>
-        <nav>
-            <NuxtLink to="/">home</NuxtLink>
-        </nav>
-        <slot />
-    </div>
+  <div>
+    <nav>
+      <NuxtLink to="/">
+        home
+      </NuxtLink>
+    </nav>
+    <slot />
+  </div>
 </template>
-
 
 <style scoped></style>
