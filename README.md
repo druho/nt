@@ -1,14 +1,11 @@
 ## Setup
 
-Make sure to install the dependencies:
-
 ```bash
 # eslint
 npx @antfu/eslint-config
 
 # modules
-pnpm add -D @vueuse/nuxt
-pnpm add -D @pinia/nuxt pinia
+pnpm add -D @vueuse/nuxt @pinia/nuxt pinia eslint
 pnpm add ufo defu
 
 pnpm i @mdi/font

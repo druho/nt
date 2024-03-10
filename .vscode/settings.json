@@ -40,5 +40,16 @@
     "yaml",
     "toml",
     "astro"
-  ]
+  ],
+  "nuxtr.projectTemplates": [
+    {
+      "name": "nt",
+      "description": "Basic Template for Nuxt3",
+      "repoURL": "https://github.com/druho/nt",
+      "branch": "master" // Optional
+    }
+  ],
+  "nuxtr.intellisense.nuxtrc": true,
+  "nuxtr.intellisense.vueFiles": true,
+  "nuxtr.intellisense.nuxtignore": true
 }
